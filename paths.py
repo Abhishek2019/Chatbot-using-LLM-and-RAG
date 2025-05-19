@@ -1,0 +1,5 @@
+root = "/N/slate/awalaval"
+DOCS_PATH = f"{root}/LLM_code/LLM_test/Resume_Chatbot/Chatbot-using-LLM-and-RAG/documents"
+CHROMA_DIR = "./vector_store/chroma"
+META_PATH = "./vector_store/metadata.json"
+HF_HOME = f"{root}/model_cache"
